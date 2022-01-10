@@ -12,11 +12,11 @@ I published my cookbook on Paperturn.com for free to increase accessibility. I r
 
 ### Press:
 
-[Los Altos Town Crier](https://www.losaltosonline.com/schools/los-altos-high-school-senior-publishes-plant-based-cookbook/article_479e2bdd-d1d9-546b-b100-94715244f869.html)
+- [Los Altos Town Crier](https://www.losaltosonline.com/schools/los-altos-high-school-senior-publishes-plant-based-cookbook/article_479e2bdd-d1d9-546b-b100-94715244f869.html)
 
-[The New Yorker](https://www.newyorker.com/news/annals-of-a-warming-planet/theres-nothing-sacred-about-nine-justices-a-livable-planet-on-the-other-hand)
+- [The New Yorker](https://www.newyorker.com/news/annals-of-a-warming-planet/theres-nothing-sacred-about-nine-justices-a-livable-planet-on-the-other-hand)
 
-[Los Altos High School Talon](https://lahstalon.org/carbon-conscious-cooking/)
+- [Los Altos High School Talon](https://lahstalon.org/carbon-conscious-cooking/)
 
 
 ### View the reach and impact [here](https://drive.google.com/file/d/1QPAzFIwPQtL6-hPpkIb7cVhvGBJW6bYR/view?usp=sharing).
