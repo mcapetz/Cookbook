@@ -1,7 +1,6 @@
 # Cookbook
-## Sustainable Cookbook titled "Carbon Conscious Cooking" by Margaret Capetz
+## Sustainable Cookbook ["Carbon Conscious Cooking"](https://drive.google.com/file/d/1U9S1lap8wrQw6qgcsXipqx_he9DPJK3Q/view) by Margaret Capetz
 
-### Read [Carbon Conscious Cooking](https://drive.google.com/file/d/1U9S1lap8wrQw6qgcsXipqx_he9DPJK3Q/view)
 
 
 ### Press:
