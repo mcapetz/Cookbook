@@ -19,4 +19,4 @@ I published my cookbook on Paperturn.com for free to increase accessibility. I r
 [Los Altos High School Talon](https://lahstalon.org/carbon-conscious-cooking/)
 
 
-### View the reach and impact [here](https://drive.google.com/file/d/1QPAzFIwPQtL6-hPpkIb7cVhvGBJW6bYR/view?usp=sharing)
+### View the reach and impact [here](https://drive.google.com/file/d/1QPAzFIwPQtL6-hPpkIb7cVhvGBJW6bYR/view?usp=sharing).
