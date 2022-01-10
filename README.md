@@ -1,6 +1,14 @@
 # Cookbook
-## Sustainable Cookbook ["Carbon Conscious Cooking"](https://drive.google.com/file/d/1U9S1lap8wrQw6qgcsXipqx_he9DPJK3Q/view) by Margaret Capetz
+## ["Carbon Conscious Cooking"](https://drive.google.com/file/d/1U9S1lap8wrQw6qgcsXipqx_he9DPJK3Q/view) by Margaret Capetz
 
+### Process:
+##### Why I wrote:
+If we don’t act now, we will face irreversible changes to the planet we call home. The ripple effect of our warming climate has dangerous implications that are largely overlooked. I combined my passion for sustainability with my love of cooking and wrote this cookbook to share my favorite plant-based recipes, in hopes of making plant-based eating more accessible and interesting for all. My cookbook aims to scale the impact of my individual cooking.
+
+##### How I created:
+Design Thinking guided my creation through the 5 stage process of empathizing, defining, ideating, prototyping, and testing. I empathized by discussing with friends and family, then defined the user needs of sustainability, simplicity, and versatility. 
+
+##### Who I impacted:
 
 
 ### Press:
